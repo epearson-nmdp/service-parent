@@ -49,6 +49,10 @@
       <id>mheuer-nmdp</id>
       <name>Michael Heuer (NMDP)</name>
     </developer>
+    <developer>
+      <id>epearson-nmdp</id>
+      <name>Erik Pearson (NMDP)</name>
+    </developer>
   </developers>
   <distributionManagement>
     <snapshotRepository>
