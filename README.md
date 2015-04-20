@@ -10,6 +10,7 @@ Projects that use the services parent pom include
  * [service-common](https://github.com/nmdp-bioinformatics/service-common) - Services common libraries
  * [service-epitope](https://github.com/nmdp-bioinformatics/service-epitope) - T-cell epitope group matching service for DPB1 locus
  * [service-feature](https://github.com/nmdp-bioinformatics/service-feature) - Enumerated sequence feature service
+ * [service-hml](https://github.com/nmdp-bioinformatics/service-hml) - HML service
 
 
 ###Using service-parent
