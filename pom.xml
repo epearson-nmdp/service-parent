@@ -99,6 +99,7 @@
 
     <!-- these should match transitive dependency version in dropwizard -->
     <jackson.version>2.5.1</jackson.version>
+    <jersey.version>2.17</jersey.version>
     <rs-api.version>2.0.1</rs-api.version>
   </properties>
   <dependencyManagement>
@@ -167,6 +168,11 @@
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
         <version>${junit.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.glassfish.jersey.core</groupId>
+        <artifactId>jersey-common</artifactId>
+        <version>${jersey.version}</version>
       </dependency>
       <dependency>
         <groupId>org.hamcrest</groupId>
