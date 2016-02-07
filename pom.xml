@@ -25,7 +25,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.nmdp.service</groupId>
 	<artifactId>service-parent</artifactId>
-	<version>3</version>
+	<version>4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>service-parent</name>
 	<description>Service parent.</description>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git@github.com:nmdp-bioinformatics/service-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:nmdp-bioinformatics/service-parent.git</developerConnection>
 		<url>git@github.com:nmdp-bioinformatics/service-parent.git</url>
-		<tag>service-parent-3</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<licenses>
 		<license>
